@@ -8,3 +8,8 @@ Mainly this is intended for the beginners who want to start NLP stuffs. It shows
 
 2. Topic Modeling
   - with the notebooks to do topic modeling with Latent Dirichlet Allocation.
+  
+  
+Notebooks
+
+tokenize_basic_with_tensorflow_keras.ipynb - Notebook with basic tokenization code to tokenize the sentences with spaces using tensorflow and keras
