@@ -12,6 +12,6 @@ Mainly this is intended for the beginners who want to start NLP stuffs. It shows
   
 Notebooks
 
-tokenize_basic_with_tensorflow_keras.ipynb - Notebook with basic tokenization code to tokenize the sentences with spaces using tensorflow and keras
+[tokenize_basic_with_tensorflow_keras.ipynb](nlp/tokenize_basic_with_tensorflow_keras.ipynb) - Notebook with basic tokenization code to tokenize the sentences with spaces using tensorflow and keras
 
 [WordNet.ipynb](nlp/WordNet.ipynb) - checking synonyms and hypernyms of WordNet from NLTK
