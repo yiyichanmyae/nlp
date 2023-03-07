@@ -15,3 +15,5 @@ Notebooks
 [tokenize_basic_tensorflow_keras.ipynb](tokenize_basic_tensorflow_keras.ipynb) - Notebook with basic tokenization code to tokenize the sentences with spaces using tensorflow and keras
 
 [WordNet.ipynb](WordNet.ipynb) - checking synonyms and hypernyms of WordNet from NLTK
+
+[preprocessing.ipynb](preprocessing.ipynb) - normalizing and tokenizing the tweets including processing with stopwords, punctuations, stemming, lowercase and hyperlinks
