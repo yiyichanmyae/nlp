@@ -17,3 +17,5 @@ Notebooks
 [WordNet.ipynb](WordNet.ipynb) - checking synonyms and hypernyms of WordNet from NLTK
 
 [preprocessing.ipynb](preprocessing.ipynb) - normalizing and tokenizing the tweets including processing with stopwords, punctuations, stemming, lowercase and hyperlinks
+
+[utils.py](utils.py) - the utility file to be imported in [preprocessing.ipynb](preprocessing.ipynb)
