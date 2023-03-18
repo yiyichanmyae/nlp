@@ -19,3 +19,5 @@ Notebooks
 [preprocessing.ipynb](preprocessing.ipynb) - normalizing and tokenizing the tweets including processing with stopwords, punctuations, stemming, lowercase and hyperlinks
 
 [utils.py](utils.py) - the utility file to be imported in [preprocessing.ipynb](preprocessing.ipynb)
+
+(linear_algebra) - the notebook how to works with vectors and matrices with numpy
