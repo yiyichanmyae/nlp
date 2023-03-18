@@ -20,4 +20,6 @@ Notebooks
 
 [utils.py](utils.py) - the utility file to be imported in [preprocessing.ipynb](preprocessing.ipynb)
 
-[linear_algebra.ipynb] - the notebook how to works with vectors and matrices with numpy
+[linear_algebra.ipynb](linear_algebra.ipynb) - the notebook how to do linear algebra with vectors and matrices with numpy
+
+[manipulating_word_embeddings.ipynb](manipulating_word_embeddings.ipynb) - to see how word vectors works and find the relations betweens words
