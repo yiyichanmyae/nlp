@@ -20,4 +20,4 @@ Notebooks
 
 [utils.py](utils.py) - the utility file to be imported in [preprocessing.ipynb](preprocessing.ipynb)
 
-(linear_algebra) - the notebook how to works with vectors and matrices with numpy
+[linear_algebra.ipynb] - the notebook how to works with vectors and matrices with numpy
