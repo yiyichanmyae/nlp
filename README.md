@@ -25,3 +25,5 @@ Notebooks
 [manipulating_word_embeddings.ipynb](manipulating_word_embeddings.ipynb) - to see how word vectors works and find the relations betweens words
 
 [building_and_visualizing_word_frequencies.ipynb](building_and_visualizing_word_frequencies.ipynb) -  to create word frequencies for feature extraction, needs to import [utils.py](utils.py)
+
+[Explanation_PCA.ipynb](Explanation_PCA.ipynb) - Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [The Rotation Matrices](The Rotation Matrix.pdf)
