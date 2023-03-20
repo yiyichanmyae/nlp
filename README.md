@@ -26,4 +26,4 @@ Notebooks
 
 [building_and_visualizing_word_frequencies.ipynb](building_and_visualizing_word_frequencies.ipynb) -  to create word frequencies for feature extraction, needs to import [utils.py](utils.py)
 
-[Explanation_PCA.ipynb](Explanation_PCA.ipynb) - Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [The Rotation Matrices](The Rotation Matrix.pdf)
+[Explanation_PCA.ipynb](Explanation_PCA.ipynb) - Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [The Rotation Matrix.pdf](The Rotation Matrix.pdf)
