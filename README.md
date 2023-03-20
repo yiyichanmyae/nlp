@@ -16,10 +16,12 @@ Notebooks
 
 [WordNet.ipynb](WordNet.ipynb) - checking synonyms and hypernyms of WordNet from NLTK
 
-[preprocessing.ipynb](preprocessing.ipynb) - normalizing and tokenizing the tweets including processing with stopwords, punctuations, stemming, lowercase and hyperlinks
+[preprocessing.ipynb](preprocessing.ipynb) - normalizing and tokenizing the tweets including processing with stopwords, punctuations, stemming, lowercase and hyperlinks, needs to import [utils.py](utils.py)
 
 [utils.py](utils.py) - the utility file to be imported in [preprocessing.ipynb](preprocessing.ipynb)
 
 [linear_algebra.ipynb](linear_algebra.ipynb) - the notebook how to do linear algebra with vectors and matrices with numpy
 
 [manipulating_word_embeddings.ipynb](manipulating_word_embeddings.ipynb) - to see how word vectors works and find the relations betweens words
+
+[building_and_visualizing_word_frequencies.ipynb](building_and_visualizing_word_frequencies.ipynb) -  to create word frequencies for feature extraction, needs to import [utils.py](utils.py)
