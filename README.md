@@ -3,12 +3,16 @@
 This repository includes the notebooks which handles the basic things, likes algorithms and basic tools for doing NLP (Natural Language Processing) within each specific folder.
 Mainly this is intended for the beginners who want to start NLP stuffs. It shows what kinds of things he/she should be familiar with with details explanation.
 
-1. Visualization with Matplotlib
-  - with the notebooks to see different basic visualization with matplotlib in each cell.
+Folders
 
-2. Topic Modeling
-  - with the notebooks to do topic modeling with Latent Dirichlet Allocation.
+1. [visalization_with_matplotlib](visalization_with_matplotlib)
+  - notebooks to see different basic visualization with matplotlib in each cell.
+
+2. [topic_modeling](topic_modeling)
+  - notebooks to do topic modeling with Latent Dirichlet Allocation.
   
+3. [tensorflow_dev_assignments](tensorflow_dev_assignments)
+  - notebooks the assignments and labs of the `Natural Language Propressing in Tensorflow` course from `DeepLearning.AI` on `Coursera`
   
 Notebooks
 
