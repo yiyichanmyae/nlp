@@ -3,7 +3,7 @@
 This repository includes the notebooks which handles the basic things, likes algorithms and basic tools for doing NLP (Natural Language Processing) within each specific folder.
 Mainly this is intended for the beginners who want to start NLP stuffs. It shows what kinds of things he/she should be familiar with with details explanation.
 
-Folders
+## Folders
 
 1. [visalization_with_matplotlib](visalization_with_matplotlib)
   - notebooks to see different basic visualization with matplotlib in each cell.
@@ -14,7 +14,7 @@ Folders
 3. [tensorflow_dev_assignments](tensorflow_dev_assignments)
   - notebooks the assignments and labs of the `Natural Language Propressing in Tensorflow` course from `DeepLearning.AI` on `Coursera`
   
-Notebooks
+## Notebooks
 
 [tokenize_basic_tensorflow_keras.ipynb](tokenize_basic_tensorflow_keras.ipynb) 
 - Notebook with basic tokenization code to tokenize the sentences with spaces using tensorflow and keras
@@ -40,3 +40,7 @@ Notebooks
 
 [Explanation_PCA.ipynb](Explanation_PCA.ipynb) 
 - Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [`The Rotation Matrix.pdf`](https://github.com/yiyichanmyae/nlp/blob/master/The%20Rotation%20Matrix.pdf) 
+
+## Datasets
+
+[Tensorflow built-in Datasets Catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
