@@ -29,7 +29,7 @@ Notebooks
 
 [manipulating_word_embeddings.ipynb](manipulating_word_embeddings.ipynb) 
 - to see how word vectors works and find the relations betweens words.
-  will need [word_embeddings_subset.p](data/word_embeddings_subset.p) to upload the model file.
+  will need to upload the model file [word_embeddings_subset.p](data/word_embeddings_subset.p).
 
 [building_and_visualizing_word_frequencies.ipynb](building_and_visualizing_word_frequencies.ipynb) 
 - to create word frequencies for feature extraction, needs to import [utils.py](utils.py)
