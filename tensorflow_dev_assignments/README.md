@@ -1,4 +1,4 @@
-This is assignments collection of Natural Language Processing in Tensorflow from DeepLearning.AI
+This is assignments collection of `Natural Language Processing in Tensorflow` Course from `DeepLearning.AI` on `Cousera`.
 
 C3 - Course 3 of the Specialization
 W1 - Week 1 of the Course
