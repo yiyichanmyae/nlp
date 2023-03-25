@@ -1,7 +1,7 @@
 # nlp
 
 This repository includes the notebooks which handles the basic things, likes algorithms and basic tools for doing NLP (Natural Language Processing) within each specific folder.
-Mainly this is intended for the beginners who want to start NLP stuffs. It shows what kinds of things he/she should be familiar with with details explanation.
+Mainly. this is intended for the beginners who want to start NLP stuffs. It shows what kinds of things he/she should be familiar with with detailed explanation.
 
 ## Folders
 
