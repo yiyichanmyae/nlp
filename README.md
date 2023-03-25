@@ -9,7 +9,7 @@ Folders
   - notebooks to see different basic visualization with matplotlib in each cell.
 
 2. [topic_modeling](topic_modeling)
-  - notebooks to do topic modeling with Latent Dirichlet Allocation.
+  - notebooks to do topic modeling with `Latent Dirichlet Allocation`.
   
 3. [tensorflow_dev_assignments](tensorflow_dev_assignments)
   - notebooks the assignments and labs of the `Natural Language Propressing in Tensorflow` course from `DeepLearning.AI` on `Coursera`
@@ -20,7 +20,7 @@ Notebooks
 - Notebook with basic tokenization code to tokenize the sentences with spaces using tensorflow and keras
 
 [WordNet.ipynb](WordNet.ipynb) 
-- checking synonyms and hypernyms of WordNet from NLTK
+- checking synonyms and hypernyms of WordNet from `NLTK`
 
 [preprocessing.ipynb](preprocessing.ipynb) 
 - normalizing and tokenizing the tweets including processing with stopwords, punctuations, stemming, lowercase and hyperlinks, needs to import [utils.py](utils.py)
