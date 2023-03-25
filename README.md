@@ -12,18 +12,27 @@ Mainly this is intended for the beginners who want to start NLP stuffs. It shows
   
 Notebooks
 
-[tokenize_basic_tensorflow_keras.ipynb](tokenize_basic_tensorflow_keras.ipynb) - Notebook with basic tokenization code to tokenize the sentences with spaces using tensorflow and keras
+[tokenize_basic_tensorflow_keras.ipynb](tokenize_basic_tensorflow_keras.ipynb) 
+- Notebook with basic tokenization code to tokenize the sentences with spaces using tensorflow and keras
 
-[WordNet.ipynb](WordNet.ipynb) - checking synonyms and hypernyms of WordNet from NLTK
+[WordNet.ipynb](WordNet.ipynb) 
+- checking synonyms and hypernyms of WordNet from NLTK
 
-[preprocessing.ipynb](preprocessing.ipynb) - normalizing and tokenizing the tweets including processing with stopwords, punctuations, stemming, lowercase and hyperlinks, needs to import [utils.py](utils.py)
+[preprocessing.ipynb](preprocessing.ipynb) 
+- normalizing and tokenizing the tweets including processing with stopwords, punctuations, stemming, lowercase and hyperlinks, needs to import [utils.py](utils.py)
 
-[utils.py](utils.py) - the utility file to be imported in [preprocessing.ipynb](preprocessing.ipynb), [building_and_visualizing_word_frequencies.ipynb](building_and_visualizing_word_frequencies.ipynb) 
+[utils.py](utils.py) 
+- the utility file to be imported in [preprocessing.ipynb](preprocessing.ipynb), [building_and_visualizing_word_frequencies.ipynb](building_and_visualizing_word_frequencies.ipynb) 
 
-[linear_algebra.ipynb](linear_algebra.ipynb) - the notebook how to do linear algebra with vectors and matrices with numpy
+[linear_algebra.ipynb](linear_algebra.ipynb) 
+- the notebook how to do linear algebra with vectors and matrices with numpy
 
-[manipulating_word_embeddings.ipynb](manipulating_word_embeddings.ipynb) - to see how word vectors works and find the relations betweens words
+[manipulating_word_embeddings.ipynb](manipulating_word_embeddings.ipynb) 
+- to see how word vectors works and find the relations betweens words.
+  will need [word_embeddings_subset.p](data/word_embeddings_subset.p) to upload the model file.
 
-[building_and_visualizing_word_frequencies.ipynb](building_and_visualizing_word_frequencies.ipynb) -  to create word frequencies for feature extraction, needs to import [utils.py](utils.py)
+[building_and_visualizing_word_frequencies.ipynb](building_and_visualizing_word_frequencies.ipynb) 
+- to create word frequencies for feature extraction, needs to import [utils.py](utils.py)
 
-[Explanation_PCA.ipynb](Explanation_PCA.ipynb) - Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [`The Rotation Matrix.pdf`](https://github.com/yiyichanmyae/nlp/blob/master/The%20Rotation%20Matrix.pdf) 
+[Explanation_PCA.ipynb](Explanation_PCA.ipynb) 
+- Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [`The Rotation Matrix.pdf`](https://github.com/yiyichanmyae/nlp/blob/master/The%20Rotation%20Matrix.pdf) 
