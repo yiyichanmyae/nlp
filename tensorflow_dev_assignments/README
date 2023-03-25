@@ -3,6 +3,6 @@ This is assignments collection of Natural Language Processing in Tensorflow from
 C3 - Course 3 of the Specialization
 W1 - Week 1 of the Course
 
-[C2W2_Lab2_sarcasm_classifier.ipynb](C2W2_Lab2_sarcasm_classifier.ipynb)- includes how GlobalAveragePooling1D() works and 
+[C3W2_Lab2_sarcasm_classifier.ipynb](C3W2_Lab2_sarcasm_classifier.ipynb)- includes how GlobalAveragePooling1D() works and 
 how hyperparameters like vocab size, padded sequences size, embedding dimensions can effect the confident of the predictions (based on loss),
 visualization of the results based on model's history and how to check the embedding results from the embedding layers by using Tensorflow Embedding Projector.
