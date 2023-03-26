@@ -22,3 +22,9 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 [C3W2_Assignment.ipynb](C3W2_Assignment.ipynb)
 - The assignment file of Week 2 in `NLP in TF`
 - [BBC News Classification Dataset](https://www.kaggle.com/c/learn-ai-bbc/overview)
+
+[C3W2_Assignment_withSolution.ipynb](C3W2_Assignment_withSolution.ipynb)
+- need ot use [bbc-text.csv](bbc-text.csv)
+- includes `preprocessing`, 'Tokenization`, 'Model building`, `Evaluation` with `visualization` and creating the file to test with [Tensorflow's Embedding Projector](https://projector.tensorflow.org/).
+- uses the `Embedding`, `GlobalAveragePooling1D` and `Dense` layers only.
+- compiles with `sparse_categorical_crossentropy` loss function and `adam` optimizer.
