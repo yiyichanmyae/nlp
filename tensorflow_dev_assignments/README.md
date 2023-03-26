@@ -5,7 +5,7 @@ C3 - Course 3 of the Specialization
 W1 - Week 1 of the Course
 
 [C3W1_Assignment.ipynb](C3W21_Assignment.ipynb)
-- The assignment file of Week 1 in `NLP in TF`
+- The assignment file of Week 1 in `NLP in TF` with the `Solution`
 
 [C3W2_Lab2_sarcasm_classifier.ipynb](C3W2_Lab2_sarcasm_classifier.ipynb) 
 - includes how GlobalAveragePooling1D() works, 
