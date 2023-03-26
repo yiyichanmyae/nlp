@@ -11,4 +11,5 @@ W1 - Week 1 of the Course
   and how to check the embedding results from the embedding layers by using [Tensorflow Embedding Projector](https://projector.tensorflow.org/).
   
 [C3W2_Lab3_imdb_subwords.ipynb](C3W2_Lab3_imdb_subwords.ipynb)
+- Comparing `Tokenizer` and `SubwordTextEncoder`
 - IMDB review classification and evaluation with pretrained Subword Tokenizer
