@@ -44,3 +44,7 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 ## Datasets
 
 [Tensorflow built-in Datasets Catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
+
+## API
+
+[Tensorflow Subword Text Encoder](https://www.tensorflow.org/datasets/api_docs/python/tfds/deprecated/text/SubwordTextEncoder) or `Subword Tokenizer`
