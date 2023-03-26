@@ -19,3 +19,4 @@ W1 - Week 1 of the Course
 
 [C3W2_Assignment.ipynb](C3W2_Assignment.ipynb)
 - The assignment file of Week 2 in `NLP in TF`
+- [BBC News Classification Dataset](https://www.kaggle.com/c/learn-ai-bbc/overview)
