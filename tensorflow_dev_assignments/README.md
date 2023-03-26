@@ -9,3 +9,6 @@ W1 - Week 1 of the Course
   how hyperparameters like vocab size, padded sequences size, embedding dimensions can effect the confident of the predictions (based on loss),
   visualization of the results based on model's history 
   and how to check the embedding results from the embedding layers by using [Tensorflow Embedding Projector](https://projector.tensorflow.org/).
+  
+[C3W2_Lab3_imdb_subwords.ipynb](C3W2_Lab3_imdb_subwords.ipynb)
+- IMDB review classification and evaluation with pretrained Subword Tokenizer
