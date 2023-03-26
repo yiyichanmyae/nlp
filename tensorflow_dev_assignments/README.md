@@ -4,6 +4,9 @@ C3 - Course 3 of the Specialization
 
 W1 - Week 1 of the Course
 
+[C3W1_Assignment.ipynb](C3W21_Assignment.ipynb)
+- The assignment file of Week 1 in `NLP in TF`
+
 [C3W2_Lab2_sarcasm_classifier.ipynb](C3W2_Lab2_sarcasm_classifier.ipynb) 
 - includes how GlobalAveragePooling1D() works, 
   how hyperparameters like vocab size, padded sequences size, embedding dimensions can effect the confident of the predictions (based on loss),
@@ -13,3 +16,6 @@ W1 - Week 1 of the Course
 [C3W2_Lab3_imdb_subwords.ipynb](C3W2_Lab3_imdb_subwords.ipynb)
 - Comparing `Tokenizer` and `SubwordTextEncoder`
 - IMDB review classification and evaluation with pretrained Subword Tokenizer
+
+[C3W2_Assignment.ipynb](C3W2_Assignment.ipynb)
+- The assignment file of Week 2 in `NLP in TF`
