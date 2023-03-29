@@ -40,6 +40,7 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 
 [Explanation_PCA.ipynb](Explanation_PCA.ipynb) 
 - Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [`The Rotation Matrix.pdf`](https://github.com/yiyichanmyae/nlp/blob/master/The%20Rotation%20Matrix.pdf) 
+- might need some images under the `[images](images)` directory for the display in the notebook
 
 ## Datasets
 
