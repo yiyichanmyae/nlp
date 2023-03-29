@@ -5,13 +5,13 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 
 ## Folders
 
-1. [visalization_with_matplotlib](visalization_with_matplotlib)
+1. [`visalization_with_matplotlib`](visalization_with_matplotlib)
   - notebooks to see different basic visualization with matplotlib in each cell.
 
-2. [topic_modeling](topic_modeling)
+2. [`topic_modeling`](topic_modeling)
   - notebooks to do topic modeling with `Latent Dirichlet Allocation`.
   
-3. [tensorflow_dev_assignments](tensorflow_dev_assignments)
+3. [`tensorflow_dev_assignments`](tensorflow_dev_assignments)
   - notebooks the assignments and labs of the `Natural Language Propressing in Tensorflow` course from `DeepLearning.AI` on `Coursera`
   
 ## Notebooks
@@ -39,8 +39,8 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 - to create word frequencies for feature extraction, needs to import [utils.py](utils.py)
 
 [Explanation_PCA.ipynb](Explanation_PCA.ipynb) 
-- Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [`The Rotation Matrix.pdf`](https://github.com/yiyichanmyae/nlp/blob/master/The%20Rotation%20Matrix.pdf) 
-- might need some images under the `[images](https://github.com/yiyichanmyae/nlp/tree/master/images)` directory for the display in the notebook
+- Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [The Rotation Matrix.pdf](https://github.com/yiyichanmyae/nlp/blob/master/The%20Rotation%20Matrix.pdf) 
+- might need some images under the [`images`](images) directory for the display in the notebook
 
 ## Datasets
 
