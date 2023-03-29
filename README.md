@@ -42,6 +42,10 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 - Explaining PCA, based on the Singular Value Decomposition (SVD) of the Covariance Matrix of the original dataset, related to Eigenvalues and Eigenvectors which are used as [The Rotation Matrix.pdf](https://github.com/yiyichanmyae/nlp/blob/master/The%20Rotation%20Matrix.pdf) 
 - might need some images under the [`images`](images) directory for the display in the notebook
 
+[logistic_regression_model.ipynb](logistic_regression_model.ipynb)
+- to visualize and interpret logistic regression 
+- uses [logistic_features.csv](data/logistic_features.csv) under the [`data`](data) directory
+
 ## Datasets
 
 [Tensorflow built-in Datasets Catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
