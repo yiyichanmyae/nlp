@@ -14,6 +14,9 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 3. [`tensorflow_dev_assignments`](tensorflow_dev_assignments)
   - notebooks the assignments and labs of the `Natural Language Propressing in Tensorflow` course from `DeepLearning.AI` on `Coursera`
   
+4. [`data`](data)
+  - Data Files such as `.csv` and Model files which are needed to load in the notebooks
+  
 ## Notebooks
 
 [tokenize_basic_tensorflow_keras.ipynb](tokenize_basic_tensorflow_keras.ipynb) 
