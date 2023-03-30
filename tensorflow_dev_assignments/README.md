@@ -31,6 +31,6 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 
 ## `Natural Language Processing` Specialization of `DeepLearning.AI`
 
-[Logistic Regression_W1_Assignment.ipynb](Logistic Regression_W1_Assignment.ipynb)
+[LogisticRegression_W1_Assignment.ipynb](LogisticRegression_W1_Assignment.ipynb)
 - assignment notebook without solution
 - if you wanna check the solution, please see [LogisticRegression_fromScratch.ipynb](../LogisticRegression_fromScratch.ipynb)
