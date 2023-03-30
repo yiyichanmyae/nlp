@@ -50,8 +50,9 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 - uses [logistic_features.csv](data/logistic_features.csv) under the [`data`](data) directory
 
 [LogisticRegression_fromScratch.ipynb](LogisticRegression_fromScratch.ipynb)
-- building and evaluating the Logistic Regression from Scratch
-- includes calculating loss function and the gradient descent learning algorithm
+- building and evaluating the `Logistic Regression` from Scratch
+- does Preprocessing, Feature Extraction, predicting new tweets
+- includes implementing loss function and the `gradient descent` learning algorithm from Scratch
 - needs to import [utils.py](utils.py)
 
 ## Datasets
