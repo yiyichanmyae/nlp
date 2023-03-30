@@ -49,7 +49,7 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 - visualization and interpreting logistic regression 
 - uses [logistic_features.csv](data/logistic_features.csv) under the [`data`](data) directory
 
-[LogisticRegression _fromScratch.ipynb](LogisticRegression _fromScratch.ipynb)
+[LogisticRegression_fromScratch.ipynb](LogisticRegression_fromScratch.ipynb)
 - building and evaluating the Logistic Regression from Scratch
 - includes calculating loss function and the gradient descent learning algorithm
 - needs to import [utils.py](utils.py)
