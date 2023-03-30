@@ -28,3 +28,9 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 - includes `preprocessing`, 'Tokenization`, 'Model building`, `Evaluation` with `visualization` and creating the file to test with [Tensorflow's Embedding Projector](https://projector.tensorflow.org/).
 - uses the `Embedding`, `GlobalAveragePooling1D` and `Dense` layers only.
 - compiles with `sparse_categorical_crossentropy` loss function and `adam` optimizer.
+
+## `Natural Language Processing` Specialization of `DeepLearning.AI`
+
+[Logistic Regression_W1_Assignment.ipynb](Logistic Regression_W1_Assignment.ipynb)
+- assignment notebook without solution
+- if you wanna check the solution, please see [LogisticRegression_fromScratch.ipynb](../LogisticRegression_fromScratch.ipynb)
