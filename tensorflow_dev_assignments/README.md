@@ -33,6 +33,13 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 - training single layer LSTM with the dataset `imdb_reviews/subwords8k` from built-in `tensorflow_datasets`
 - prepares the data, builds and complies the model and evaluates it
 
+[C3W3_Lab2_multiple_layer_LSTM.ipynb](C3W3_Lab2_multiple_layer_LSTM.ipynb)
+- training multiple layer LSTM with dataset `imdb_reviews/subwords8k` from built-in `tensorflow_datasets`
+- shows how to parse between LSTM and the difference of outputs
+- prepares the data, builds and complies the model and evaluates it
+
+
+
 ## `Natural Language Processing` Specialization of `DeepLearning.AI`
 
 [LogisticRegression_W1_Assignment.ipynb](LogisticRegression_W1_Assignment.ipynb)
