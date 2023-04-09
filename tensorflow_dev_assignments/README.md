@@ -29,6 +29,10 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 - uses the `Embedding`, `GlobalAveragePooling1D` and `Dense` layers only.
 - compiles with `sparse_categorical_crossentropy` loss function and `adam` optimizer.
 
+[C3W3_Lab1_single_layer_LSTM.ipynb](C3W3_Lab1_single_layer_LSTM.ipynb)
+- training single layer LSTM with the dataset `imdb_reviews/subwords8k` from built-in `tensorflow_datasets`
+- prepares the data, builds and complies the model and evaluates it
+
 ## `Natural Language Processing` Specialization of `DeepLearning.AI`
 
 [LogisticRegression_W1_Assignment.ipynb](LogisticRegression_W1_Assignment.ipynb)
