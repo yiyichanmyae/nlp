@@ -57,7 +57,7 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 
 [visualizing_NaiveBayes.ipynb](visualizing_NaiveBayes.ipynb)
 - interpreting `Naive Bayes` Performance
-- need to upload [data/bayes_features.csv](data/bayes_features.csv) and have to use [image/std.jpg](image/std.jpg)
+- need to upload [data/bayes_features.csv](data/bayes_features.csv) 
 
 
 ## Datasets
