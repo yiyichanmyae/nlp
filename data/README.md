@@ -7,3 +7,6 @@
 - `negative` means the summation of the fequencies of the negative words in the related sample.
 - `sentiment` is the label of the related samples.
 - to know better, please see [building_and_visualizing_word_frequencies.ipynb](../building_and_visualizing_word_frequencies.ipynb)
+
+[bayes_features.csv](bayes_features.csv)
+- is the data for [../visualizing_NaiveBayes.ipynb](../visualizing_NaiveBayes.ipynb)
