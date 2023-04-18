@@ -55,6 +55,11 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 - includes implementing loss function and the `gradient descent` learning algorithm from Scratch
 - needs to import [utils.py](utils.py)
 
+[visualizing_NaiveBayes.ipynb](visualizing_NaiveBayes.ipynb)
+- interpreting `Naive Bayes` Performance
+- need to upload [data/bayes_features.csv](data/bayes_features.csv) and have to use [image/std.jpg](image/std.jpg)
+
+
 ## Datasets
 
 [Tensorflow built-in Datasets Catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
