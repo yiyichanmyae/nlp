@@ -53,7 +53,7 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 - building and evaluating the `Logistic Regression` from Scratch
 - does Preprocessing, Feature Extraction, predicting new tweets
 - includes implementing loss function and the `gradient descent` learning algorithm from Scratch
-- needs to import [utils.py](utils.py)
+- needs to import [utils.py](utils.py) and [w1_unittest.py](w1_unittest.py)
 
 [visualizing_NaiveBayes.ipynb](visualizing_NaiveBayes.ipynb)
 - interpreting `Naive Bayes` Performance
