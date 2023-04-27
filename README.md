@@ -59,10 +59,15 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 - interpreting `Naive Bayes` Performance
 - need to upload [data/bayes_features.csv](data/bayes_features.csv) 
 
+[wikipedia_library.ipynb](wikipedia_library.ipynb)
+- how to get the data from Wikipedia
 
 ## Datasets
 
-[Tensorflow built-in Datasets Catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
+- [Tensorflow built-in Datasets Catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
+
+- `Wikipedia` Data
+[wikipedia_library.ipynb](wikipedia_library.ipynb)
 
 ## API
 
