@@ -15,7 +15,11 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 [sarcasm_data_preprocessing.ipynb](sarcasm_data_preprocessing.ipynb)
 - tokenizing and preprocessing [Sarcasm Dataset](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection/home) 
 
-[C3W1_Assignment.ipynb](C3W21_Assignment.ipynb)
+[C3W1_Assignment.ipynb](C3W1_Assignment.ipynb)
+- preprocessing [BBC News Classification Dataset](https://www.kaggle.com/c/learn-ai-bbc/overview)
+- removing stopwords, tokening and preprocessing data in `TensorFlow`
+ 
+[C3W1_Assignment_solution.ipynb](C3W1_Assignment_solution.ipynb)
 - The assignment file of Week 1 in `NLP in TF` with the `Solution`
 
 [C3W2_Lab2_sarcasm_classifier.ipynb](C3W2_Lab2_sarcasm_classifier.ipynb) 
