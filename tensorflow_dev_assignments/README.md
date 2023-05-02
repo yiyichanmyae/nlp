@@ -12,6 +12,9 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 [sequences_basic.ipynb](sequences_basic.ipynb)
 - using  `texts_to_sequences` and `pad_sequences` in `TensorFlow`
 
+[sarcasm_data_preprocessing.ipynb](sarcasm_data_preprocessing.ipynb)
+- tokenizing and preprocessing [Sarcasm Dataset](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection/home) 
+
 [C3W1_Assignment.ipynb](C3W21_Assignment.ipynb)
 - The assignment file of Week 1 in `NLP in TF` with the `Solution`
 
