@@ -9,6 +9,9 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 [tokenizer_basic.ipynb](tokenizer_basic.ipynb)
 - using basic `tokenizer` in `TensorFlow`
 
+[sequences_basic.ipynb](sequences_basic.ipynb)
+- using  `texts_to_sequences` and `pad_sequences` in `TensorFlow`
+
 [C3W1_Assignment.ipynb](C3W21_Assignment.ipynb)
 - The assignment file of Week 1 in `NLP in TF` with the `Solution`
 
