@@ -6,6 +6,9 @@ W1 - Week 1 of the Course
 ## `Natural Language Processing in Tensorflow` of `DeepLearning.AI`
 This is assignments collection of `Natural Language Processing in Tensorflow` Course from `DeepLearning.AI` on `Cousera`.
 
+[tokenizer_basic.ipynb](tokenizer_basic.ipynb)
+- using basic `tokenizer` in `TensorFlow`
+
 [C3W1_Assignment.ipynb](C3W21_Assignment.ipynb)
 - The assignment file of Week 1 in `NLP in TF` with the `Solution`
 
