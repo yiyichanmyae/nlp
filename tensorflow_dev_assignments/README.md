@@ -51,7 +51,8 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 - shows how to parse between LSTM and the difference of outputs
 - prepares the data, builds and complies the model and evaluates it
 
-
+[C3W3_Lab3_Conv1D_subword8k.ipynb](C3W3_Lab3_Conv1D_subword8k.ipynb)
+- traing Subword8k Text Data with Convolution 1D Layer
 
 ## `Natural Language Processing` Specialization of `DeepLearning.AI`
 
