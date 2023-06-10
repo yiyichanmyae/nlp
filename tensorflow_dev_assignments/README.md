@@ -57,7 +57,7 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 
 [sarcasm_dataset_bi_lstm.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W3_Lab5_sarcasm_with_bi_LSTM.ipynb)
 - Dataset : [News headline dataset for scarcasm detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
-- Bidirectional LSTM
+- embedding, Bidirectional LSTM
 
 ## Convolutional Neural Network
 [Conv1D_subword8k.ipynb](C3W3_Lab3_Conv1D_subword8k.ipynb)
@@ -66,6 +66,10 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 [dnn_lstm_gru_conv1d.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W3_Lab4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb)
 - imbd reviews dataset
 - comparing the results among DNN, LSTM, GRU and Conv1D
+
+[sarcasm_dataset_conv1d.ipynb](https://colab.research.google.com/drive/1hDj_PBWd2Wq3RzPoaj4hIjTXg4xzPjNw#scrollTo=g9DC6dmLF8DC)
+- Dataset : [News headline dataset for scarcasm detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
+- embedding, conv1d
 
 # `Natural Language Processing` Specialization of `DeepLearning.AI`
 
