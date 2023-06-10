@@ -71,6 +71,16 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 - Dataset : [News headline dataset for scarcasm detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
 - embedding, conv1d
 
+[twitter_sentiment_classification.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W3_Assignment_sentiment_analysis.ipynb)
+- Dataset : [sentiment140 dataset](http://help.sentiment140.com/home)
+- Sentiment Analysis, Pos vs Neg
+- Uses pretrained GLOVE embedding
+- Conv1D, Bidirectional LSTM
+
+## Text Generation
+[text_generation.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W4_Lab1_textgeneration.ipynb)
+- training on [Lanigan's Ball](https://en.wikipedia.org/wiki/Lanigan%27s_Ball), a traditional Irish song
+
 # `Natural Language Processing` Specialization of `DeepLearning.AI`
 
 [LogisticRegression_Assignment.ipynb](LogisticRegression_W1_Assignment.ipynb)
