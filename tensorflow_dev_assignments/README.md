@@ -57,7 +57,11 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 
 ## Convolutional Neural Network
 [Conv1D_subword8k.ipynb](C3W3_Lab3_Conv1D_subword8k.ipynb)
-- traing Subword8k Text Data with Convolution 1D Layer
+- training Subword8k Text Data with Convolution 1D Layer
+
+[dnn_lstm_gru_conv1d.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W3_Lab4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb)
+- imbd reviews dataset
+- comparing the results among DNN, LSTM, GRU and Conv1D
 
 # `Natural Language Processing` Specialization of `DeepLearning.AI`
 
