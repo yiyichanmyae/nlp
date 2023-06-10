@@ -55,6 +55,10 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 - shows how to parse between LSTM and the difference of outputs
 - prepares the data, builds and complies the model and evaluates it
 
+[sarcasm_dataset_bi_lstm.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W3_Lab5_sarcasm_with_bi_LSTM.ipynb)
+- Dataset : [News headline dataset for scarcasm detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
+- Bidirectional LSTM
+
 ## Convolutional Neural Network
 [Conv1D_subword8k.ipynb](C3W3_Lab3_Conv1D_subword8k.ipynb)
 - training Subword8k Text Data with Convolution 1D Layer
