@@ -5,17 +5,17 @@ Mainly. this is intended for the beginners who want to start NLP stuffs. It show
 
 ## Directories / Folders 
 
-1. [`visalization_with_matplotlib`](visalization_with_matplotlib)
-  - notebooks to see different basic visualization with matplotlib in each cell.
-
-2. [`topic_modeling`](topic_modeling)
-  - notebooks to do topic modeling with `Latent Dirichlet Allocation`.
-  
-3. [`tensorflow_dev_assignments`](tensorflow_dev_assignments)
+1. [`tensorflow_dev_assignments`](tensorflow_dev_assignments)
   - notebooks the assignments and labs of the `Natural Language Propressing in Tensorflow` course from `DeepLearning.AI` on `Coursera`
   
+2. [`visalization_with_matplotlib`](visalization_with_matplotlib)
+  - notebooks to see different basic visualization with matplotlib in each cell.
+
+3. [`topic_modeling`](topic_modeling)
+  - notebooks to do topic modeling with `Latent Dirichlet Allocation`.
+  
 4. [`data`](data)
-  - Data Files such as `.csv` and Model files which are needed to load in the notebooks
+  - stores Data Files such as `.csv` and Model files which are needed to load in the notebooks
   
 ## Notebooks
 
