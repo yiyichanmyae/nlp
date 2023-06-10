@@ -67,7 +67,7 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 - imbd reviews dataset
 - comparing the results among DNN, LSTM, GRU and Conv1D
 
-[sarcasm_dataset_conv1d.ipynb](https://colab.research.google.com/drive/1hDj_PBWd2Wq3RzPoaj4hIjTXg4xzPjNw#scrollTo=g9DC6dmLF8DC)
+[sarcasm_dataset_conv1d.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W3_Lab6_sarcasm_with_1D_convolutional.ipynb)
 - Dataset : [News headline dataset for scarcasm detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
 - embedding, conv1d
 
