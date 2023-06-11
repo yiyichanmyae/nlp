@@ -1,5 +1,6 @@
 ## Labs and Assignments
 [TensorFlow Deverloper Professional Certificate github](https://github.com/https-deeplearning-ai/tensorflow-1-public)
+
 C3 - Course 3 of the Specialization
 
 W1 - Week 1 of the Course
