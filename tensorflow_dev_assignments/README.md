@@ -85,6 +85,10 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 - training on more Irish songs
 - Bidirectional LSTM
 
+[shakespeare_sonnets_generation.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W4_Assignment_Shakespeare_sonnets_generation.ipynb)
+- Data : [ShakeSpeare Sonnets](https://www.opensourceshakespeare.org/views/sonnets/sonnet_view.php?range=viewrange&sonnetrange1=1&sonnetrange2=154)
+- Bidriection LSTM 
+
 # `Natural Language Processing` Specialization of `DeepLearning.AI`
 
 [LogisticRegression_Assignment.ipynb](LogisticRegression_W1_Assignment.ipynb)
