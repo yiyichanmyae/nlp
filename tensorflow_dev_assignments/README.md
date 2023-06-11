@@ -81,6 +81,10 @@ This is assignments collection of `Natural Language Processing in Tensorflow` Co
 [text_generation.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W4_Lab1_textgeneration.ipynb)
 - training on [Lanigan's Ball](https://en.wikipedia.org/wiki/Lanigan%27s_Ball), a traditional Irish song
 
+[lyrics_generation.ipynb](https://github.com/yiyichanmyae/nlp/blob/master/tensorflow_dev_assignments/C3W4_Lab2_irish_lyrics_generation.ipynb)
+- training on more Irish songs
+- Bidirectional LSTM
+
 # `Natural Language Processing` Specialization of `DeepLearning.AI`
 
 [LogisticRegression_Assignment.ipynb](LogisticRegression_W1_Assignment.ipynb)
